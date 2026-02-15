@@ -1,3 +1,5 @@
+> **Fixed gateway handling, REST success codes, and shard spawning**
+
 # Tinfoil
 
 > **Warning**: Tinfoil is in <ins>alpha</ins>. This means that not all of the Discord API is currently supported. It is recommended against using Tinfoil currently, as breaking changes are frequent.
